@@ -26,8 +26,8 @@ ssh -l bandit1 bandit.labs.overthewire.org -p 2220
 2. Noticed a file called `-`
 3. To concatenate a file that is in the current directory you preface the file with `./`
 > Note:
->> the `.` is the shortcut for "current directory
->> the `/` to signify you are looking for a file/ folder
+> the `.` is the shortcut for "current directory
+> the `/` to signify you are looking for a file/ folder
 ```bash
 cat ./-
 ```
