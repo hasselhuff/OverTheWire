@@ -12,15 +12,15 @@ Site: https://overthewire.org/wargames/bandit/bandit2.html
 * http://tldp.org/LDP/abs/html/special-chars.html
 -----------------
 
-username: bandit1
+> username: bandit1
 >
-password: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+> password: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 >
-server: bandit.labs.overthewire.org
+> server: bandit.labs.overthewire.org
 >
-port: 2220
+> port: 2220
 
-I ssh'ed into the server using:
+ssh into the server:
 ```bash
 ssh -l bandit1 bandit.labs.overthewire.org -p 2220
 ```
