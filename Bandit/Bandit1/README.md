@@ -13,8 +13,11 @@ Site: https://overthewire.org/wargames/bandit/bandit2.html
 -----------------
 
 username: bandit1
+>
 password: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+>
 server: bandit.labs.overthewire.org
+>
 port: 2220
 
 I ssh'ed into the server using:
