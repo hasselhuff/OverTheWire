@@ -11,10 +11,13 @@ Site: https://overthewire.org/wargames/bandit/bandit1.html
 -----------------
 
 From the [Level 0](https://overthewire.org/wargames/bandit/bandit0.html) page:
-username: bandit0
-password: bandit0
-server: bandit.labs.overthewire.org
-port: 2220
+> username: bandit0
+>
+> password: bandit0
+> 
+> server: bandit.labs.overthewire.org
+> 
+> port: 2220
 
 I ssh'ed into the server using:
 ```bash
