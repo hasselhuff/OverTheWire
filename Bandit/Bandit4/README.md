@@ -29,6 +29,7 @@ ssh -l bandit4 bandit.labs.overthewire.org -p 2220
 file inhere/*
 ```
 > Note:
+> 
 > `*` is a wildcard that shows anything that matches, well, anything
 
 2. Noticed a file called `-file07` is the only file with `ASCII` type
