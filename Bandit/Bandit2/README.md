@@ -24,20 +24,20 @@ ssh into the server:
 ssh -l bandit2 bandit.labs.overthewire.org -p 2220
 ```
 
-1. Ran an `ls` to list the contents of `bandit1`'s home directory
+1. Ran an `ls` to list the contents in the directory
 2. Noticed a file called `spaces in this filename`
 ## Option 1
-1. Place a `\` before you placing a `space` between each word in the file name
+1. Insert a `\` before placing a `space` between each word in the file name
 > Note:
-> `\` tells the system to read the next character as a string if it has more than way for the system to interpret it
+> `\` tells the system to read the next character as a string if it has more than one way for the system to interpret it
 ```bash
 cat spaces\ in\ this\ filename
 ```
 ## Option 2
 1. To concatenate a file that is in the current directory you preface the file with `./`
-2. Since this is the only file in the directory, type in `space` then hit tab to complete
+2. Since this is the only file in the directory that begins with the letter `s`, type in `s` then hit tab to complete
 ```bash
-cat ./space
+cat ./s
 ```
 
 Bandit3's password: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
