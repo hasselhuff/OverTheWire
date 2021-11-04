@@ -35,7 +35,7 @@ find ./inhere -readable -size 1033c -not -executable -exec cat {} \;
 ```
 > Note:
 > 
-> `*1033c` is a 1033 bytes
+> `*1033c` is 1033 bytes in the `find` command
 >  
 >  `-exec cat {} \;` is to execute the `cat` command on any file that gets matched with 
 >  
