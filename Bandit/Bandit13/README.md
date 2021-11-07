@@ -12,7 +12,7 @@ Site: https://overthewire.org/wargames/bandit/bandit13.html
 > ssh, telnet, nc, openssl, s_client, nmap
 
 ## References:
-> https://help.ubuntu.com/community/SSH/OpenSSH/Keys
+* [SSH/OpenSSH/Keys](https://help.ubuntu.com/community/SSH/OpenSSH/Keys)
 
 -----------------
 
