@@ -26,7 +26,6 @@ ssh -l bandit7 bandit.labs.overthewire.org -p 2220
 ```bash
 grep "millionth" data.txt 
 ```
-> Note:
 2. The result of the above command gave me the output:
 ```bash
 millionth       cvX2JJa4CFALtqS87jk27qwqGhBM9plV
