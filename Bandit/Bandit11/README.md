@@ -8,7 +8,7 @@ Site: https://overthewire.org/wargames/bandit/bandit11.html
 > grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 
 ## References:
-> https://en.wikipedia.org/wiki/Rot13
+* [Rot13 on Wikipedia](https://en.wikipedia.org/wiki/Rot13)
 
 -----------------
 
