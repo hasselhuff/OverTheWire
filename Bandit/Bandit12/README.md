@@ -12,7 +12,7 @@ Site: https://overthewire.org/wargames/bandit/bandit12.html
 > grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd, mkdir, cp, mv, file
 
 ## References:
-> https://en.wikipedia.org/wiki/Hex_dump
+* [Hex dump on Wikipedia](https://en.wikipedia.org/wiki/Hex_dump)
 
 -----------------
 
