@@ -35,7 +35,7 @@ find / -user bandit7 -group bandit6 -size 33c 2>/dev/null -exec cat {} \;
 ```
 > Note:
 > 
-> `/` is searches recursively from the root of the filesystem
+> `/` begins the search recursively from the root of the filesystem
 >  
 >  `2>/dev/null`  sends all on screen errors to `null` in order to remove errors from displaying on the screen
 2. The result of the above command gave me the output `HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs`
