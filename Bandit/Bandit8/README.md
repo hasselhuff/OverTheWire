@@ -8,7 +8,7 @@ Site: https://overthewire.org/wargames/bandit/bandit8.html
 > grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 
 ## References
-> https://ryanstutorials.net/linuxtutorial/piping.php
+* [Piping and Redirection](https://ryanstutorials.net/linuxtutorial/piping.php)
 
 -----------------
 
