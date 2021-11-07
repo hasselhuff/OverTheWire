@@ -41,4 +41,4 @@ find / -user bandit7 -group bandit6 -size 33c 2>/dev/null -exec cat {} \;
 2. The result of the above command gave me the output `HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs`
 
 
-Bandit6's password: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+Bandit7's password: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
