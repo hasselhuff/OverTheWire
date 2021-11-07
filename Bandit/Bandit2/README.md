@@ -8,7 +8,7 @@ Site: https://overthewire.org/wargames/bandit/bandit3.html
 > ls, cd, cat, file, du, find
 
 ## Resources
-* https://www.google.com/search?q=spaces+in+filename
+* [Google Search for “spaces in filename”](https://www.google.com/search?q=spaces+in+filename)
 -----------------
 
 > username: bandit2
