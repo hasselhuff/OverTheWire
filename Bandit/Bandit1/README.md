@@ -8,8 +8,8 @@ Site: https://overthewire.org/wargames/bandit/bandit2.html
 > ls, cd, cat, file, du, find
 
 ## Resources
-* https://www.google.com/search?q=dashed+filename
-* http://tldp.org/LDP/abs/html/special-chars.html
+* [Google Search for “dashed filename”](https://www.google.com/search?q=dashed+filename)
+* [Advanced Bash-scripting Guide - Chapter 3 - Special Characters](http://tldp.org/LDP/abs/html/special-chars.html)
 -----------------
 
 > username: bandit1
