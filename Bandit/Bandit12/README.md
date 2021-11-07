@@ -47,19 +47,6 @@ file test
 mv test test.gz
 gunzip test.gz
 ```
-5. 
-
-
-> Note:
-> `tr` translates/ deletes characters
-> 
-> `'A-Za-z'` is the range of characters I want `tr` top match on (which is all alphabetical characters from A-Z and a-z)
-> 
-> `'N-ZA-Mn-za-m'` is what I want to translate the characters to (note I start N to signify 13 characters from A)
-4. The result of the above command gave me the output:
-```bash
-The password is 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
-```
 5. I then did a `file` on `test` to determine the file type and proceeded with the appropriate archive utility to decompress:
 ```bash
 bunzip2 test              # this command changed the file from test to test.out
