@@ -12,7 +12,7 @@ Site: https://overthewire.org/wargames/bandit/bandit6.html
 
 
 ## Commands you may need to solve this level
-> ls, cd, cat, file, du, find
+> ls, cd, cat, file, du, find, grep
 
 -----------------
 
