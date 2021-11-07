@@ -33,7 +33,7 @@ ssh -l bandit12 bandit.labs.overthewire.org -p 2220
 ```bash
 mkdir /tmp/2021test
 ```
-2.  Since `data.txt` is an ouytput of a hexdump we need to convert the hexdump back into a file:
+2.  Since `data.txt` is an output of a hexdump we need to convert the hexdump back into a file:
 ```bash
 cat data.txt | xxd -r > /tmp/2021test/test
 ```
@@ -42,12 +42,12 @@ cat data.txt | xxd -r > /tmp/2021test/test
 cd /tmp/2021test
 file test
 ```
-4. Out outpur shows it is a `gzip compressed data` so we will need to rename the file for `gunzip` to see it:
+4. Out output shows it is a `gzip compressed data` so we will need to rename the file for `gunzip` to see it:
 ```bash
 mv test test.gz
 gunzip test.gz
 ```
-5. I then did a `file` on `test` to determine the file type and proceeded with the appropriate archive utility to decompress:
+5. I then did a `file` on `test` to determine the file type and proceeded with the appropriate archive utilities to decompress:
 ```bash
 bunzip2 test              # this command changed the file from test to test.out
 mv test.out test.gz
