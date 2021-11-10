@@ -1,6 +1,6 @@
 # Bandit Level 8 → Level 9
 
-Site: https://overthewire.org/wargames/bandit/bandit8.html
+Site: https://overthewire.org/wargames/bandit/bandit9.html
 ## Goal
 > The password for the next level is stored in the file data.txt and is the only line of text that occurs only once
 
