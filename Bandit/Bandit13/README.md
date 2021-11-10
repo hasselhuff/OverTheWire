@@ -1,6 +1,6 @@
 # Bandit Level 13 → Level 14
 
-Site: https://overthewire.org/wargames/bandit/bandit13.html
+Site: https://overthewire.org/wargames/bandit/bandit14.html
 ## Goal
 > The password for the next level is stored in /etc/bandit_pass/bandit14 and can only be read by user bandit14. 
 > 
