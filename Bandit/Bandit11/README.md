@@ -1,6 +1,6 @@
 # Bandit Level 11 → Level 12
 
-Site: https://overthewire.org/wargames/bandit/bandit11.html
+Site: https://overthewire.org/wargames/bandit/bandit12.html
 ## Goal
 > The password for the next level is stored in the file data.txt, where all lowercase (a-z) and uppercase (A-Z) letters have been rotated by 13 positions
 
