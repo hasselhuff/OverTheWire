@@ -1,6 +1,6 @@
 # Bandit Level 12 → Level 13
 
-Site: https://overthewire.org/wargames/bandit/bandit12.html
+Site: https://overthewire.org/wargames/bandit/bandit13.html
 ## Goal
 > The password for the next level is stored in the file data.txt, which is a hexdump of a file that has been repeatedly compressed. 
 > 
