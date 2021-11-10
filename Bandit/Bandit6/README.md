@@ -1,6 +1,6 @@
 # Bandit Level 6 → Level 7
 
-Site: https://overthewire.org/wargames/bandit/bandit6.html
+Site: https://overthewire.org/wargames/bandit/bandit7.html
 ## Goal
 > The password for the next level is stored somewhere on the server and has all of the following properties:
 >
