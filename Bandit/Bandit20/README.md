@@ -74,4 +74,4 @@ gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
 ```
 7. Exit each `tmux` session by entering the command `exit`
 >
-Bandit21's password: GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+Bandit21's password: gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
