@@ -16,5 +16,5 @@ Start here:
 > 
 > URL:      http://natas0.natas.labs.overthewire.org
 
-developed in association with
+Developed in association with
 the [NESSoS FP7 project](http://www.nessos-project.eu/)
