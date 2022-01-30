@@ -66,13 +66,12 @@ done
 ```
 # Script Breakdown:
 * The script gets the user running the script with `whoami`
-* Changes directories to /var/spool/<output of whoami>
-* Iterates through all the files in the current directory
+* Changes directories to /var/spool/(output of the w`whoami` command)
+* Iterates through all the files in the directory
 * Skips over the `.` and `..` directories and grabs the owner for each file
-* If the file is owned by `bandit23` execute the file and after 60 seconds kill the process
-* After the 60 seconds remove the file that got executed and finish
+* If the file is owned by `bandit23` execute the file and after 60 seconds kill the process and delete it
 
-4. Lets see which folders are in /var/spool and their priviliges:
+4. Lets see which user folders are in /var/spool and their priviliges:
 ```bash
 ls -l /var/spool
 ```
