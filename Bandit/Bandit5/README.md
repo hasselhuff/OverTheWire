@@ -18,8 +18,6 @@ Site: https://overthewire.org/wargames/bandit/bandit6.html
 
 > username: bandit5
 >
-> password: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
->
 > server: bandit.labs.overthewire.org
 >
 > port: 2220
@@ -43,12 +41,8 @@ find ./inhere -readable -size 1033c -not -executable -exec cat {} \;
 >  
 >  `\;` being required when using the `-exec` switch
 
-2. The result of the above command gave me the output `DXjZPULLxYr17uwoI01bNLQbtFemEgo7`
-
 ## Bonus
 To list the name of the file with the password:
 ```bash
 find inhere/ -readable -size 1033c -not -executable -exec ls {} \; -exec  cat {} \;
 ```
-
-Bandit6's password: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
