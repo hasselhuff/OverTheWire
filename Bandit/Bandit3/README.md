@@ -11,8 +11,6 @@ Site: https://overthewire.org/wargames/bandit/bandit4.html
 
 > username: bandit3
 >
-> password: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
->
 > server: bandit.labs.overthewire.org
 >
 > port: 2220
@@ -31,5 +29,3 @@ ls -la inhere
 ```bash
 cat inhere/.hidden
 ```
-
-Bandit4's password: pIwrPrtPN36QITSp3EQaw936yaFoFgAB
