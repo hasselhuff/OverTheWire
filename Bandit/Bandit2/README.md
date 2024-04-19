@@ -13,8 +13,6 @@ Site: https://overthewire.org/wargames/bandit/bandit3.html
 
 > username: bandit2
 >
-> password: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
->
 > server: bandit.labs.overthewire.org
 >
 > port: 2220
@@ -39,5 +37,3 @@ cat spaces\ in\ this\ filename
 ```bash
 cat ./s
 ```
-
-Bandit3's password: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
