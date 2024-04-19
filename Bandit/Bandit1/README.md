@@ -14,8 +14,6 @@ Site: https://overthewire.org/wargames/bandit/bandit2.html
 
 > username: bandit1
 >
-> password: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
->
 > server: bandit.labs.overthewire.org
 >
 > port: 2220
@@ -33,4 +31,4 @@ ssh -l bandit1 bandit.labs.overthewire.org -p 2220
 ```bash
 cat ./-
 ```
-Which uncovered bandit2's password: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+Which uncovered bandit2's password.
