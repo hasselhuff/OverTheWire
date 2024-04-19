@@ -30,4 +30,4 @@ ssh -l bandit0 bandit.labs.overthewire.org -p 2220
 ```bash
 cat readme
 ```
-Which uncovered bandit1's password: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+Which uncovers bandit1's password.
